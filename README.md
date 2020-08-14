@@ -1,2 +1,2 @@
-# Legenda-F-cil-para-Kodi
+# Legenda-Fácil-para-Kodi
 Addon do Kodi para Legendas em Português
