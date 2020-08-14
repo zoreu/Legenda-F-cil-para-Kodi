@@ -1,2 +1,2 @@
-subtitle="https://raw.githubusercontent.com/zoreu/legenda-facil-para-kodi/master/legendas/Parasite.2019.KOREAN.1080p.BluRay.H264.AAC-VXT.srt"
+subtitle="https://raw.githubusercontent.com/zoreu/legenda-facil-para-kodi/master/legendas/legenda.srt"
 language="pt-BR"
