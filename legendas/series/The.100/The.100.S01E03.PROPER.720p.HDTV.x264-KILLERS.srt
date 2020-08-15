@@ -1,0 +1,2452 @@
+1
+00:00:00,973 --> 00:00:02,968
+<font color="#ffff00"><i>Eu nasci no espaço.</i></font>
+
+2
+00:00:02,970 --> 00:00:05,247
+<font color="#ffff00"><i>Nunca senti o Sol
+em meu rosto...</i></font>
+
+3
+00:00:05,248 --> 00:00:08,534
+<font color="#ffff00"><i>ou respirei ar de verdade,
+ou flutuei na água.</i></font>
+
+4
+00:00:08,910 --> 00:00:10,526
+<font color="#ffff00"><i>Nenhum de nós o fez.</i></font>
+
+5
+00:00:10,528 --> 00:00:14,947
+<font color="#ffff00"><i>Por 3 gerações, a Arca manteve
+o que restou dos humanos vivos,</i></font>
+
+6
+00:00:14,949 --> 00:00:17,000
+<font color="#ffff00"><i>mas agora nossa casa
+está morrendo,</i></font>
+
+7
+00:00:17,001 --> 00:00:19,568
+<font color="#ffff00"><i>e nós somos a última esperança
+da humanidade.</i></font>
+
+8
+00:00:19,800 --> 00:00:22,472
+<font color="#ffff00"><i>100 prisioneiros enviados
+em uma missão desesperada...</i></font>
+
+9
+00:00:22,473 --> 00:00:23,974
+<font color="#ffff00"><i>para a terra firme.</i></font>
+
+10
+00:00:23,975 --> 00:00:26,252
+<font color="#ffff00"><i>Cada um de nós está aqui
+porque violou a lei.</i></font>
+
+11
+00:00:26,253 --> 00:00:28,494
+<font color="#ffff00"><i>Em terra firme, não há lei.</i></font>
+
+12
+00:00:28,496 --> 00:00:30,436
+<font color="#ffff00"><i>Tudo que devemos fazer
+é sobreviver.</i></font>
+
+13
+00:00:30,437 --> 00:00:33,197
+<font color="#ffff00"><i>Mas seremos testados
+pela Terra,</i></font>
+
+14
+00:00:33,198 --> 00:00:35,080
+<font color="#ffff00"><i>pelos segredos
+que ela esconde,</i></font>
+
+15
+00:00:35,081 --> 00:00:37,670
+<font color="#ffff00"><i>e acima de tudo,
+por cada um de nós.</i></font>
+
+16
+00:00:39,072 --> 00:00:40,558
+<font color="#ffff00"><i>Anteriormente...</i></font>
+
+17
+00:00:40,559 --> 00:00:42,586
+<font color="#ffff00">Prisioneira 319,
+tire o relógio.</font>
+
+18
+00:00:42,587 --> 00:00:44,087
+<font color="#ffff00">Não! Era do meu pai.</font>
+
+19
+00:00:44,244 --> 00:00:46,357
+<font color="#ffff00">- Mãe?
+- Você será enviada para Terra.</font>
+
+20
+00:00:46,807 --> 00:00:49,320
+<font color="#ffff00">Clarke, sinto muito
+por fazer seu pai ser preso.</font>
+
+21
+00:00:49,321 --> 00:00:52,054
+<font color="#ffff00">Não mataram meu pai, Wells!
+Eles o executaram!</font>
+
+22
+00:00:52,656 --> 00:00:54,707
+<font color="#ffff00">Atom, minha irmã não sairá
+do acampamento.</font>
+
+23
+00:00:54,708 --> 00:00:57,107
+<font color="#ffff00">Quem tocar nela,
+vai se ver comigo.</font>
+
+24
+00:00:57,257 --> 00:00:58,657
+<font color="#ffff00">Atom.</font>
+
+25
+00:01:01,093 --> 00:01:03,895
+<font color="#ffff00"><i>Jasper foi atingido.
+Eles o levaram.</i></font>
+
+26
+00:01:05,731 --> 00:01:07,132
+<font color="#ffff00"><i>Ele está vivo.</i></font>
+
+27
+00:01:14,133 --> 00:01:17,976
+<font color="#ffff00">- UM ANO ATRÁS
+- <i>Aí vamos nós...</i></font>
+
+28
+00:01:18,007 --> 00:01:20,281
+<font color="#ffff00">Sente isso?
+Viu isso?</font>
+
+29
+00:01:20,282 --> 00:01:23,153
+<font color="#ffff00">- Está chegando a hora!
+- Defesa, defesa!</font>
+
+30
+00:01:23,254 --> 00:01:25,603
+<font color="#ffff00">- A defesa está ali.
+- Passe a bola. Isso!</font>
+
+31
+00:01:25,604 --> 00:01:27,452
+<font color="#ffff00">- Gol!
+- Não!</font>
+
+32
+00:01:27,454 --> 00:01:29,054
+<font color="#ffff00">Bate aqui, garota!</font>
+
+33
+00:01:29,903 --> 00:01:32,104
+<font color="#ffff00">- São imbatíveis.
+- Prepare-se para perder.</font>
+
+34
+00:01:32,105 --> 00:01:35,439
+<font color="#ffff00">- Ainda não acabou.
+- Acabou há 147 anos.</font>
+
+35
+00:01:35,440 --> 00:01:38,373
+<font color="#ffff00">- É só um detalhe.
+- Desista. Você irá perder.</font>
+
+36
+00:01:39,206 --> 00:01:40,606
+<font color="#ffff00">O que eu perdi?</font>
+
+37
+00:01:40,607 --> 00:01:42,735
+<font color="#ffff00">Seu marido e sua filha
+sendo irritantes.</font>
+
+38
+00:01:42,736 --> 00:01:45,207
+<font color="#ffff00">- Jake, seja gentil.
+- Vamos com tudo.</font>
+
+39
+00:01:45,208 --> 00:01:47,310
+<font color="#ffff00">Perda de tempo. Perda...
+Oi, amor.</font>
+
+40
+00:01:47,311 --> 00:01:48,711
+<font color="#ffff00">Oi.</font>
+
+41
+00:01:48,788 --> 00:01:51,047
+<font color="#ffff00">Encontrei o Bennett
+quando saí da clínica...</font>
+
+42
+00:01:51,048 --> 00:01:54,609
+<font color="#ffff00">e ele tem aquela análise
+de sistema que você pediu.</font>
+
+43
+00:01:56,800 --> 00:01:58,200
+<font color="#ffff00">Isso não vai durar.</font>
+
+44
+00:01:58,201 --> 00:01:59,956
+<font color="#ffff00"><i>Aquilo não é um ímpeto?</i></font>
+
+45
+00:01:59,986 --> 00:02:01,604
+<font color="#ffff00"><i>Eu sinto que vai acontecer.</i></font>
+
+46
+00:02:01,605 --> 00:02:03,401
+<font color="#ffff00">Está bem.</font>
+
+47
+00:02:03,402 --> 00:02:05,954
+<font color="#ffff00">- O quê? Você vai agora?
+- Só por alguns minutos.</font>
+
+48
+00:02:06,859 --> 00:02:10,256
+<font color="#ffff00">- Está tudo bem?
+- Sim. Conhece esse barco velho.</font>
+
+49
+00:02:10,330 --> 00:02:11,830
+<font color="#ffff00">Tem sempre algum problema.</font>
+
+50
+00:02:15,205 --> 00:02:17,111
+<font color="#ffff00">O pulso dele está fraco.</font>
+
+51
+00:02:20,406 --> 00:02:22,029
+<font color="#ffff00"><i>Volte a dormir!</i></font>
+
+52
+00:02:22,409 --> 00:02:23,809
+<font color="#ffff00"><i>Fique quieto!</i></font>
+
+53
+00:02:25,010 --> 00:02:28,382
+<font color="#ffff00">Não lhes dê ouvidos.
+Vamos superar por isso, certo?</font>
+
+54
+00:02:28,514 --> 00:02:29,914
+<font color="#ffff00">Eu prometo.</font>
+
+55
+00:02:29,915 --> 00:02:31,722
+<font color="#ffff00"><i>Ele não pode morrer logo?</i></font>
+
+56
+00:02:33,058 --> 00:02:35,657
+<font color="#ffff00">Vou buscar água limpa.
+Fique de olho nele.</font>
+
+57
+00:02:40,265 --> 00:02:41,669
+<font color="#ffff00"><i>Fala sério!</i></font>
+
+58
+00:02:49,367 --> 00:02:50,767
+<font color="#ffff00"><i>Não!</i></font>
+
+59
+00:02:52,404 --> 00:02:53,804
+<font color="#ffff00"><i>Não!</i></font>
+
+60
+00:02:54,609 --> 00:02:56,557
+<font color="#ffff00"><i>Não, não!</i></font>
+
+61
+00:03:03,281 --> 00:03:06,629
+<font color="#ffff00">Ei, acorde.
+Está tudo bem.</font>
+
+62
+00:03:07,219 --> 00:03:08,719
+<font color="#ffff00"><i>Foi só um sonho.</i></font>
+
+63
+00:03:09,488 --> 00:03:11,127
+<font color="#ffff00">Você é a Charlotte, certo?</font>
+
+64
+00:03:11,807 --> 00:03:13,207
+<font color="#ffff00">Sou a Clarke.</font>
+
+65
+00:03:14,959 --> 00:03:16,811
+<font color="#ffff00"><i>Tudo bem ter medo.</i></font>
+
+66
+00:03:17,789 --> 00:03:19,530
+<font color="#ffff00">Quer falar sobre isso?</font>
+
+67
+00:03:22,600 --> 00:03:24,000
+<font color="#ffff00">São...</font>
+
+68
+00:03:25,551 --> 00:03:27,136
+<font color="#ffff00">os meus pais.</font>
+
+69
+00:03:29,674 --> 00:03:31,647
+<font color="#ffff00">Foram executados,
+e eles...</font>
+
+70
+00:03:31,677 --> 00:03:34,116
+<font color="#ffff00">Eu os vejo
+nos meus sonhos, e...</font>
+
+71
+00:03:34,246 --> 00:03:35,946
+<font color="#ffff00">Eu entendo.</font>
+
+72
+00:03:37,248 --> 00:03:39,249
+<font color="#ffff00">Meu pai também foi executado.</font>
+
+73
+00:03:44,008 --> 00:03:45,856
+<font color="#ffff00">Então, como você veio
+parar aqui?</font>
+
+74
+00:03:51,803 --> 00:03:53,502
+<font color="#ffff00">Levaram as coisas
+dos meus pais...</font>
+
+75
+00:03:53,503 --> 00:03:55,625
+<font color="#ffff00">para o centro
+de redistribuição e...</font>
+
+76
+00:03:56,435 --> 00:03:58,034
+<font color="#ffff00">Eu perdi a cabeça.</font>
+
+77
+00:04:00,338 --> 00:04:02,411
+<font color="#ffff00">Disseram que eu agredi
+um guarda.</font>
+
+78
+00:04:03,081 --> 00:04:04,975
+<font color="#ffff00">Não posso dizer
+que culpo você.</font>
+
+79
+00:04:13,818 --> 00:04:16,359
+<font color="#ffff00">Vê aquela estrela brilhante
+lá em cima?</font>
+
+80
+00:04:17,589 --> 00:04:20,109
+<font color="#ffff00">É a Arca orbitando
+acima de nós.</font>
+
+81
+00:04:20,259 --> 00:04:23,331
+<font color="#ffff00">Acho que tudo
+que aconteceu lá em cima,</font>
+
+82
+00:04:23,361 --> 00:04:25,525
+<font color="#ffff00">sabe, o sofrimento...</font>
+
+83
+00:04:26,731 --> 00:04:29,738
+<font color="#ffff00">Talvez possamos deixar isso
+no passado.</font>
+
+84
+00:04:30,468 --> 00:04:34,836
+<font color="#ffff00">Talvez estar em terra firme
+seja nossa segunda chance.</font>
+
+85
+00:04:36,907 --> 00:04:38,908
+<font color="#ffff00">Acredita mesmo nisso?</font>
+
+86
+00:04:41,278 --> 00:04:42,779
+<font color="#ffff00">Estou tentando.</font>
+
+87
+00:05:09,927 --> 00:05:11,994
+<font color="#ffff00">Acho que é aqui é o norte.
+Vamos.</font>
+
+88
+00:05:11,995 --> 00:05:15,626
+<font color="#ffff00">Mesmo? Porque viemos dali,
+srta. Navego Com As Estrelas.</font>
+
+89
+00:05:15,627 --> 00:05:17,940
+<font color="#ffff00">É sua culpa por estarmos
+perdidos há dois dias.</font>
+
+90
+00:05:17,941 --> 00:05:19,811
+<font color="#ffff00">Não devíamos
+ter saído sozinhos.</font>
+
+91
+00:05:19,812 --> 00:05:22,886
+<font color="#ffff00">Vamos.
+Acharemos a nave amanhã.</font>
+
+92
+00:05:23,008 --> 00:05:24,792
+<font color="#ffff00">Foi o que disse ontem.</font>
+
+93
+00:05:25,060 --> 00:05:28,504
+<font color="#ffff00">- Estou com fome.
+- Trina, relaxe. Estamos bem.</font>
+
+94
+00:05:31,362 --> 00:05:32,863
+<font color="#ffff00">Sentiu isso?</font>
+
+95
+00:05:35,312 --> 00:05:36,925
+<font color="#ffff00">O que é isso?</font>
+
+96
+00:05:39,205 --> 00:05:40,618
+<font color="#ffff00">Não sei.</font>
+
+97
+00:05:45,528 --> 00:05:47,140
+<font color="#ffff00">Não consigo ver!</font>
+
+98
+00:05:47,668 --> 00:05:50,665
+<font color="#ffff00">- <i>Vamos sair daqui!
+- Meu Deus! Está queimando!</i></font>
+
+99
+00:05:53,213 --> 00:05:55,213
+<font color="#ffff00"><b>UNITED e ManiacS
+apresentam</b></font>
+
+100
+00:05:55,214 --> 00:05:56,817
+<font color="#ffff00"><b>S01E03
+Earth Kills</b></font>
+
+101
+00:05:56,818 --> 00:05:59,118
+<font color="#ffff00"><b>Legendas:
+Matvix | Time Pink | Legionário</b></font>
+
+102
+00:05:59,119 --> 00:06:01,119
+<font color="#ffff00"><b>Legendas:
+Eddy | Ray | Lilly | Nei</b></font>
+
+103
+00:06:01,121 --> 00:06:03,121
+<font color="#ffff00"><b>Legenda:
+The_Tozz | Lola</b></font>
+
+104
+00:06:03,618 --> 00:06:05,945
+<font color="#ffff00">Aquele garoto está
+me enlouquecendo.</font>
+
+105
+00:06:05,946 --> 00:06:09,226
+<font color="#ffff00">Ele não vai durar.
+Melhor pensar em outra desculpa.</font>
+
+106
+00:06:09,367 --> 00:06:11,829
+<font color="#ffff00">- É assim que se faz.
+- Olhamos por 800 metros...</font>
+
+107
+00:06:11,830 --> 00:06:14,559
+<font color="#ffff00">em todas as direções,
+e não vimos Trina ou Pascal.</font>
+
+108
+00:06:14,814 --> 00:06:17,185
+<font color="#ffff00">Visitou sua árvore especial
+quando foi lá?</font>
+
+109
+00:06:17,467 --> 00:06:19,713
+<font color="#ffff00">Atom já recebeu a punição.
+Pare com isso.</font>
+
+110
+00:06:19,714 --> 00:06:21,214
+<font color="#ffff00">Podem ser os terra-firmes.</font>
+
+111
+00:06:21,455 --> 00:06:24,636
+<font color="#ffff00">É. Ou podem estar
+se divertindo.</font>
+
+112
+00:06:24,743 --> 00:06:26,718
+<font color="#ffff00">Está acontecendo
+muito disso.</font>
+
+113
+00:06:32,951 --> 00:06:36,160
+<font color="#ffff00">Bellamy,
+as pessoas estão com medo,</font>
+
+114
+00:06:36,161 --> 00:06:38,253
+<font color="#ffff00">e o garoto moribundo
+não está ajudando.</font>
+
+115
+00:06:38,254 --> 00:06:40,254
+<font color="#ffff00">A moral melhorará
+quando acharmos comida.</font>
+
+116
+00:06:40,255 --> 00:06:42,137
+<font color="#ffff00">E o que dizemos
+da Trina e do Pascal?</font>
+
+117
+00:06:42,138 --> 00:06:45,554
+<font color="#ffff00">Agora? Nada.
+Talvez só estejam perdidos.</font>
+
+118
+00:06:45,615 --> 00:06:47,843
+<font color="#ffff00">Procuraremos eles
+quando formos caçar.</font>
+
+119
+00:06:47,844 --> 00:06:49,313
+<font color="#ffff00">Vamos matar algo.</font>
+
+120
+00:06:49,669 --> 00:06:51,169
+<font color="#ffff00">Você não vai.</font>
+
+121
+00:06:51,311 --> 00:06:54,210
+<font color="#ffff00">Preciso que fique aqui.
+Os terra-firmes estão surgindo.</font>
+
+122
+00:06:54,211 --> 00:06:56,128
+<font color="#ffff00">Não podemos deixar aqui
+desprotegido.</font>
+
+123
+00:06:56,415 --> 00:06:58,016
+<font color="#ffff00">Tudo bem.</font>
+
+124
+00:06:58,017 --> 00:07:00,426
+<font color="#ffff00">É melhor mandarem
+o idiota ficar quieto.</font>
+
+125
+00:07:12,810 --> 00:07:15,104
+<font color="#ffff00">Os terra-firmes
+cauterizaram a ferida.</font>
+
+126
+00:07:15,407 --> 00:07:16,808
+<font color="#ffff00">Salvaram a vida dele.</font>
+
+127
+00:07:16,809 --> 00:07:19,505
+<font color="#ffff00">Salvaram a vida dele
+para que servisse de isca viva.</font>
+
+128
+00:07:20,569 --> 00:07:22,242
+<font color="#ffff00">Não é o Jardim do Éden.</font>
+
+129
+00:07:22,380 --> 00:07:24,860
+<font color="#ffff00">Está infectado.
+Pode estar septicêmico.</font>
+
+130
+00:07:25,587 --> 00:07:28,605
+<font color="#ffff00">Conseguiu usar os braceletes
+para contatar a Arca?</font>
+
+131
+00:07:29,539 --> 00:07:30,940
+<font color="#ffff00">Monty?</font>
+
+132
+00:07:31,675 --> 00:07:33,325
+<font color="#ffff00">Definitivamente não.</font>
+
+133
+00:07:34,722 --> 00:07:36,383
+<font color="#ffff00">Minha mãe saberia
+o que fazer.</font>
+
+134
+00:07:36,384 --> 00:07:39,036
+<font color="#ffff00">- Como ele está?
+- Como ele parece, Wells?</font>
+
+135
+00:07:39,231 --> 00:07:40,644
+<font color="#ffff00">Só estou tentando ajudar.</font>
+
+136
+00:07:45,098 --> 00:07:46,599
+<font color="#ffff00">Certo, quer ajudar?</font>
+
+137
+00:07:47,908 --> 00:07:49,309
+<font color="#ffff00">Segure-o.</font>
+
+138
+00:07:56,466 --> 00:07:58,326
+<font color="#ffff00">Não vou gostar disso, vou?</font>
+
+139
+00:08:06,797 --> 00:08:09,163
+<font color="#ffff00">Eu gostaria
+de sair daqui um pouco.</font>
+
+140
+00:08:09,164 --> 00:08:12,038
+<font color="#ffff00">O que acha de irmos
+ao campo de borboletas?</font>
+
+141
+00:08:14,730 --> 00:08:16,189
+<font color="#ffff00">Muito sutil?</font>
+
+142
+00:08:17,914 --> 00:08:19,415
+<font color="#ffff00">Atom?</font>
+
+143
+00:08:26,663 --> 00:08:29,735
+<font color="#ffff00">- <i>Vamos com as armas...</i>
+- O que fez com o Atom?</font>
+
+144
+00:08:34,938 --> 00:08:37,338
+<font color="#ffff00">- Atom está bem.
+- Por que ele me dispensou?</font>
+
+145
+00:08:37,339 --> 00:08:40,646
+<font color="#ffff00">- Porque não está interessado?
+- Não pode afastar tudo de mim.</font>
+
+146
+00:08:40,647 --> 00:08:43,003
+<font color="#ffff00">Atom teve que aprender.
+Desobedeça-me e pague.</font>
+
+147
+00:08:43,004 --> 00:08:44,626
+<font color="#ffff00">Ele pagou.
+Agora estamos bem.</font>
+
+148
+00:08:44,627 --> 00:08:46,261
+<font color="#ffff00">Agora eu estou pagando.</font>
+
+149
+00:08:46,491 --> 00:08:48,811
+<font color="#ffff00">Quando quiser
+demonstrar poder...</font>
+
+150
+00:08:48,812 --> 00:08:50,212
+<font color="#ffff00">deixe-me fora disso.</font>
+
+151
+00:08:54,289 --> 00:08:55,889
+<font color="#ffff00">Segurem firme!</font>
+
+152
+00:08:56,131 --> 00:08:58,355
+<font color="#ffff00">Preciso cortar
+a carne infectada.</font>
+
+153
+00:09:02,076 --> 00:09:04,082
+<font color="#ffff00">Parem!
+Estão matando-o.</font>
+
+154
+00:09:04,083 --> 00:09:06,590
+<font color="#ffff00">- Ela está tentando salvá-lo.
+- Ela não pode.</font>
+
+155
+00:09:09,042 --> 00:09:11,500
+<font color="#ffff00">- Para trás.
+- Não o arrastamos até aqui...</font>
+
+156
+00:09:11,501 --> 00:09:13,501
+<font color="#ffff00">- para deixá-lo morrer.
+- Ele vai morrer.</font>
+
+157
+00:09:13,502 --> 00:09:16,187
+<font color="#ffff00">Se não vê, está iludida.
+Ele está enlouquecendo-nos.</font>
+
+158
+00:09:16,188 --> 00:09:19,068
+<font color="#ffff00">Desculpe se o Jasper é
+inconveniente para você.</font>
+
+159
+00:09:19,069 --> 00:09:22,129
+<font color="#ffff00">Mas aqui não é a Arca.
+Aqui, todas as vidas importam.</font>
+
+160
+00:09:22,130 --> 00:09:23,730
+<font color="#ffff00">Olhe para ele.</font>
+
+161
+00:09:24,379 --> 00:09:26,103
+<font color="#ffff00">Ele é causa perdida.</font>
+
+162
+00:09:32,763 --> 00:09:36,400
+<font color="#ffff00">Octavia, passei minha vida vendo
+minha mãe curar as pessoas.</font>
+
+163
+00:09:36,401 --> 00:09:38,119
+<font color="#ffff00">Se digo que há esperança,
+então há.</font>
+
+164
+00:09:38,120 --> 00:09:40,611
+<font color="#ffff00">Não trata-se de esperança.
+Trata-se de coragem.</font>
+
+165
+00:09:40,612 --> 00:09:42,874
+<font color="#ffff00">Você não tem coragem
+de escolher o difícil.</font>
+
+166
+00:09:42,875 --> 00:09:45,282
+<font color="#ffff00">Eu tenho.
+Ele está assim há 3 dias.</font>
+
+167
+00:09:45,480 --> 00:09:48,976
+<font color="#ffff00">Se não melhorar até amanhã,
+eu mesmo o mato.</font>
+
+168
+00:09:50,510 --> 00:09:52,864
+<font color="#ffff00">Octavia, vamos.</font>
+
+169
+00:09:54,611 --> 00:09:56,123
+<font color="#ffff00">Vou ficar aqui.</font>
+
+170
+00:10:00,217 --> 00:10:02,985
+<font color="#ffff00">A sede de poder
+dominou o idiota.</font>
+
+171
+00:10:02,987 --> 00:10:05,354
+<font color="#ffff00">Não se importa com ninguém
+além de si mesmo.</font>
+
+172
+00:10:06,390 --> 00:10:07,923
+<font color="#ffff00">Sem ofensas.</font>
+
+173
+00:10:09,159 --> 00:10:12,710
+<font color="#ffff00">Sim. Bellamy é isso mesmo.</font>
+
+174
+00:10:13,198 --> 00:10:15,431
+<font color="#ffff00">Mas ele também está certo.</font>
+
+175
+00:10:31,681 --> 00:10:33,248
+<font color="#ffff00">Como foi?</font>
+
+176
+00:10:37,454 --> 00:10:40,489
+<font color="#ffff00">Disse ao Jaha
+que é definitivo.</font>
+
+177
+00:10:40,491 --> 00:10:43,625
+<font color="#ffff00">Talvez ainda reste um ano
+ou dois de oxigênio na Arca.</font>
+
+178
+00:10:43,627 --> 00:10:47,329
+<font color="#ffff00">- Você vai consertar isso.
+- Não dessa vez.</font>
+
+179
+00:10:47,331 --> 00:10:49,931
+<font color="#ffff00">Eu tentei, Abby.
+Não é um defeito.</font>
+
+180
+00:10:51,167 --> 00:10:53,001
+<font color="#ffff00">É uma falha no sistema.</font>
+
+181
+00:10:55,705 --> 00:10:57,739
+<font color="#ffff00">- O povo tem que saber.
+- Não.</font>
+
+182
+00:10:58,470 --> 00:11:00,175
+<font color="#ffff00">Vão entrar em pânico.</font>
+
+183
+00:11:00,177 --> 00:11:02,944
+<font color="#ffff00">- Está parecendo o Kane.
+- Porque ele tem razão.</font>
+
+184
+00:11:02,946 --> 00:11:06,748
+<font color="#ffff00">Não. Não podemos
+esconder a verdade.</font>
+
+185
+00:11:06,750 --> 00:11:09,450
+<font color="#ffff00">Todos da Arca precisam saber
+para acharem uma solução.</font>
+
+186
+00:11:09,587 --> 00:11:12,986
+<font color="#ffff00">E arriscar uma anarquia?
+Não. É muito perigoso.</font>
+
+187
+00:11:14,857 --> 00:11:17,459
+<font color="#ffff00">Prometa-me que vai obedecer
+as ordens do Conselho.</font>
+
+188
+00:11:17,461 --> 00:11:19,127
+<font color="#ffff00">Que vai manter em segredo.</font>
+
+189
+00:11:19,962 --> 00:11:21,596
+<font color="#ffff00">Prometa-me!</font>
+
+190
+00:11:27,937 --> 00:11:29,437
+<font color="#ffff00">Não posso.</font>
+
+191
+00:11:32,809 --> 00:11:36,244
+<font color="#ffff00">Pela Clarke.
+Faça isso por ela.</font>
+
+192
+00:11:40,182 --> 00:11:42,650
+<font color="#ffff00">Estou fazendo isso por ela.</font>
+
+193
+00:11:49,091 --> 00:11:51,726
+<font color="#ffff00">Eles vão executar você,
+Jake.</font>
+
+194
+00:11:51,728 --> 00:11:55,129
+<font color="#ffff00">Se você fizer isso,
+não poderei impedi-los.</font>
+
+195
+00:12:03,939 --> 00:12:05,473
+<font color="#ffff00">Está brava?</font>
+
+196
+00:12:06,775 --> 00:12:10,910
+<font color="#ffff00">Não. Se quer achar
+que Jasper morrerá, continue.</font>
+
+197
+00:12:10,980 --> 00:12:13,181
+<font color="#ffff00">- Está errado.
+- Espero que sim.</font>
+
+198
+00:12:13,183 --> 00:12:18,052
+<font color="#ffff00">Seja o que isso for,
+tem que ser antibiótico.</font>
+
+199
+00:12:19,488 --> 00:12:21,022
+<font color="#ffff00">Deixe-me ver.</font>
+
+200
+00:12:22,658 --> 00:12:26,294
+<font color="#ffff00">Antes de recusar minha ajuda,
+lembre quem é bom em Botânica.</font>
+
+201
+00:12:28,063 --> 00:12:30,692
+<font color="#ffff00">Os terra-firmes usaram isso
+como emplastro.</font>
+
+202
+00:12:31,334 --> 00:12:34,902
+<font color="#ffff00">Em forma de chá é melhor,
+se descobrimos o que é isso.</font>
+
+203
+00:12:34,904 --> 00:12:38,639
+<font color="#ffff00">Eu sei o que é. Alga.
+Vejam, sem raiz.</font>
+
+204
+00:12:38,641 --> 00:12:40,942
+<font color="#ffff00">Então deve haver
+uma fonte de água por perto.</font>
+
+205
+00:12:40,944 --> 00:12:43,110
+<font color="#ffff00">Sim. Um correnteza fraca
+e muitas rochas.</font>
+
+206
+00:12:43,112 --> 00:12:45,546
+<font color="#ffff00">A água deve ser
+mais vermelha que verde.</font>
+
+207
+00:12:45,548 --> 00:12:49,247
+<font color="#ffff00">- Sei que lugar é.
+- Certo. Vamos lá.</font>
+
+208
+00:12:52,286 --> 00:12:54,588
+<font color="#ffff00">Sei como elas se parecem.
+E vocês?</font>
+
+209
+00:12:58,627 --> 00:13:00,261
+<font color="#ffff00">Sabe, você devia...</font>
+
+210
+00:13:00,663 --> 00:13:03,364
+<font color="#ffff00">repensar esse lance
+de me odiar.</font>
+
+211
+00:13:03,366 --> 00:13:06,799
+<font color="#ffff00">Não são só os terra-firmes.
+Estamos cercados por criminosos.</font>
+
+212
+00:13:06,869 --> 00:13:09,668
+<font color="#ffff00">Precisamos um dos outros.
+Vamos ser amigos de novo.</font>
+
+213
+00:13:09,705 --> 00:13:13,115
+<font color="#ffff00">Você fez meu pai morrer.
+Não vai acontecer.</font>
+
+214
+00:13:14,110 --> 00:13:17,778
+<font color="#ffff00">É a Terra, Clarke.
+Tudo pode acontecer.</font>
+
+215
+00:13:22,684 --> 00:13:25,787
+<font color="#ffff00">- Eu desistiria.
+- É.</font>
+
+216
+00:13:26,389 --> 00:13:29,756
+<font color="#ffff00">Conheço Clarke há tempos,
+e então decido quando desistir.</font>
+
+217
+00:13:29,792 --> 00:13:31,925
+<font color="#ffff00">Dá para notar
+que são próximos.</font>
+
+218
+00:13:36,431 --> 00:13:37,898
+<font color="#ffff00">O que é isso?</font>
+
+219
+00:13:46,300 --> 00:13:48,007
+<font color="#ffff00">- Um automóvel.
+- Vamos, garotos.</font>
+
+220
+00:13:48,009 --> 00:13:50,809
+<font color="#ffff00">Essa coisa tem 100 anos, certo?
+Isso pode esperar.</font>
+
+221
+00:13:50,879 --> 00:13:52,279
+<font color="#ffff00">Jasper não pode.</font>
+
+222
+00:14:08,829 --> 00:14:10,563
+<font color="#ffff00">Ela é minha.</font>
+
+223
+00:14:15,370 --> 00:14:18,204
+<font color="#ffff00">- <i>Pegue.
+- Vamos, vamos!</i></font>
+
+224
+00:14:19,407 --> 00:14:22,041
+<font color="#ffff00">- Quem é você?
+- Charlotte.</font>
+
+225
+00:14:22,311 --> 00:14:23,977
+<font color="#ffff00">Quase matei você.</font>
+
+226
+00:14:24,846 --> 00:14:26,780
+<font color="#ffff00">Por que não está
+no acampamento?</font>
+
+227
+00:14:26,782 --> 00:14:31,384
+<font color="#ffff00">Com aquele cara morrendo...
+Não aguentava mais ouvi-lo.</font>
+
+228
+00:14:31,386 --> 00:14:34,187
+<font color="#ffff00">Tem terra-firmes por aqui.
+É perigoso para uma garotinha.</font>
+
+229
+00:14:34,189 --> 00:14:36,021
+<font color="#ffff00">Não sou garotinha.</font>
+
+230
+00:14:39,226 --> 00:14:41,594
+<font color="#ffff00">Tudo bem, então.</font>
+
+231
+00:14:41,596 --> 00:14:43,963
+<font color="#ffff00">Mas não pode caçar
+sem uma arma.</font>
+
+232
+00:14:48,836 --> 00:14:50,670
+<font color="#ffff00">Já matou algo antes?</font>
+
+233
+00:14:52,806 --> 00:14:55,675
+<font color="#ffff00">Vai saber.
+Quem sabe você é boa nisso.</font>
+
+234
+00:15:02,593 --> 00:15:04,761
+<font color="#ffff00">Qual é a aparência
+dessa alga?</font>
+
+235
+00:15:08,433 --> 00:15:09,833
+<font color="#ffff00">Daquele jeito ali.</font>
+
+236
+00:15:09,835 --> 00:15:11,985
+<font color="#ffff00">Qual é o tamanho daquilo
+que mordeu Octavia?</font>
+
+237
+00:15:11,986 --> 00:15:15,539
+<font color="#ffff00">Grande. Poderíamos puxar
+com alguma rede.</font>
+
+238
+00:15:16,241 --> 00:15:18,775
+<font color="#ffff00">Encontrem algo
+que afunde na água.</font>
+
+239
+00:15:21,079 --> 00:15:22,946
+<font color="#ffff00">Ou podemos
+apenas fazer isso.</font>
+
+240
+00:15:38,462 --> 00:15:39,996
+<font color="#ffff00">Vamos sair daqui.</font>
+
+241
+00:15:45,804 --> 00:15:48,144
+<font color="#ffff00">- Terra-firmes?
+- Pode ser um grito de guerra.</font>
+
+242
+00:15:48,146 --> 00:15:49,646
+<font color="#ffff00">Ou um aviso.</font>
+
+243
+00:15:56,046 --> 00:15:57,747
+<font color="#ffff00">O que diabos é aquilo?</font>
+
+244
+00:15:59,683 --> 00:16:01,217
+<font color="#ffff00">Corram! Corram!</font>
+
+245
+00:16:10,687 --> 00:16:12,254
+<font color="#ffff00">Clarke?</font>
+
+246
+00:16:13,256 --> 00:16:14,656
+<font color="#ffff00">É a sua vez.</font>
+
+247
+00:16:15,925 --> 00:16:18,860
+<font color="#ffff00">- Clarke?
+- Desculpe.</font>
+
+248
+00:16:22,965 --> 00:16:26,301
+<font color="#ffff00">Se sua intenção é
+perder bem rápido...</font>
+
+249
+00:16:26,503 --> 00:16:28,404
+<font color="#ffff00">essa foi um bela jogada.</font>
+
+250
+00:16:29,706 --> 00:16:33,204
+<font color="#ffff00">- O que está havendo?
+- Nada.</font>
+
+251
+00:16:34,874 --> 00:16:36,741
+<font color="#ffff00">Pode contar para mim.</font>
+
+252
+00:16:43,916 --> 00:16:47,300
+<font color="#ffff00">Meu pai achou um problema
+com o sistema de oxigenação.</font>
+
+253
+00:16:47,301 --> 00:16:49,754
+<font color="#ffff00">- Eu não deveria saber.
+- Houveram outras falhas.</font>
+
+254
+00:16:49,756 --> 00:16:53,258
+<font color="#ffff00">- Eles sempre resolveram.
+- Essa pode ser irreparável.</font>
+
+255
+00:16:55,895 --> 00:16:58,197
+<font color="#ffff00">O Conselho não quer
+que ninguém saiba.</font>
+
+256
+00:16:58,999 --> 00:17:01,065
+<font color="#ffff00">Do Conselho,
+você quer dizer o meu pai?</font>
+
+257
+00:17:01,067 --> 00:17:04,136
+<font color="#ffff00">É. E minha mãe e os outros.</font>
+
+258
+00:17:04,938 --> 00:17:06,804
+<font color="#ffff00">Acho que ele vai
+contar a todos.</font>
+
+259
+00:17:06,806 --> 00:17:08,907
+<font color="#ffff00">Clarke, ele não pode.
+Ele seria executado.</font>
+
+260
+00:17:08,909 --> 00:17:10,311
+<font color="#ffff00">Eu sei.</font>
+
+261
+00:17:12,378 --> 00:17:14,111
+<font color="#ffff00">Mas e se ele estiver certo?</font>
+
+262
+00:17:15,748 --> 00:17:18,015
+<font color="#ffff00">O povo não merece
+saber a verdade?</font>
+
+263
+00:17:19,084 --> 00:17:20,918
+<font color="#ffff00">Não diga ao seu pai
+que eu te disse.</font>
+
+264
+00:17:20,920 --> 00:17:22,753
+<font color="#ffff00">Não conte para ninguém.</font>
+
+265
+00:17:22,755 --> 00:17:24,822
+<font color="#ffff00">Seu segredo
+está seguro comigo.</font>
+
+266
+00:17:25,524 --> 00:17:26,924
+<font color="#ffff00">Eu prometo.</font>
+
+267
+00:17:29,061 --> 00:17:30,962
+<font color="#ffff00">Clarke, corra!</font>
+
+268
+00:17:41,574 --> 00:17:44,390
+<font color="#ffff00">- Está entrando.
+- Vede as aberturas.</font>
+
+269
+00:17:50,449 --> 00:17:52,616
+<font color="#ffff00">Venham!
+Há cavernas por aqui!</font>
+
+270
+00:18:07,967 --> 00:18:09,600
+<font color="#ffff00"><i>Bellamy!</i></font>
+
+271
+00:18:11,669 --> 00:18:13,169
+<font color="#ffff00"><i>Bellamy!</i></font>
+
+272
+00:18:17,676 --> 00:18:19,330
+<font color="#ffff00">- O que foi?
+- O ar ficou denso.</font>
+
+273
+00:18:19,332 --> 00:18:21,445
+<font color="#ffff00">A pele de todo mundo
+começou a arder.</font>
+
+274
+00:18:21,447 --> 00:18:23,181
+<font color="#ffff00">Monty,
+meu irmão está lá fora.</font>
+
+275
+00:18:23,583 --> 00:18:26,650
+<font color="#ffff00">Ele vai ficar bem.
+Todos nós ficaremos bem.</font>
+
+276
+00:18:33,558 --> 00:18:35,159
+<font color="#ffff00">Ainda esta lá fora.</font>
+
+277
+00:18:35,560 --> 00:18:36,960
+<font color="#ffff00">Deveríamos apenas correr.</font>
+
+278
+00:18:36,962 --> 00:18:38,862
+<font color="#ffff00">Jasper não pode
+esperar muito.</font>
+
+279
+00:18:38,864 --> 00:18:41,831
+<font color="#ffff00">Morrer em uma névoa ácida
+não vai ajudar o Jasper.</font>
+
+280
+00:18:46,504 --> 00:18:48,205
+<font color="#ffff00">- Isso é...?
+- Bebida.</font>
+
+281
+00:18:48,907 --> 00:18:51,875
+<font color="#ffff00">É alguma bebida caseira
+e pesada.</font>
+
+282
+00:18:59,784 --> 00:19:02,619
+<font color="#ffff00">Tome cuidado, Finn,
+pode ser...</font>
+
+283
+00:19:02,621 --> 00:19:04,321
+<font color="#ffff00">Uísque, eu acho.</font>
+
+284
+00:19:04,323 --> 00:19:06,456
+<font color="#ffff00">Melhor do que as destiladas
+que temos lá.</font>
+
+285
+00:19:07,659 --> 00:19:10,895
+<font color="#ffff00">- Álcool é tóxico.
+- Aqui é a Terra. Tudo é tóxico.</font>
+
+286
+00:19:11,597 --> 00:19:13,530
+<font color="#ffff00">E deveríamos fazer
+um rito de passagem.</font>
+
+287
+00:19:13,532 --> 00:19:15,165
+<font color="#ffff00">Eu dispenso.</font>
+
+288
+00:19:17,035 --> 00:19:19,703
+<font color="#ffff00">Longe de mim
+quebrar a tradição.</font>
+
+289
+00:19:30,514 --> 00:19:32,014
+<font color="#ffff00">Não!</font>
+
+290
+00:19:33,818 --> 00:19:35,685
+<font color="#ffff00">Charlotte, acorde.</font>
+
+291
+00:19:35,787 --> 00:19:37,187
+<font color="#ffff00">Desculpe.</font>
+
+292
+00:19:38,756 --> 00:19:40,456
+<font color="#ffff00">Isso acontece sempre?</font>
+
+293
+00:19:42,060 --> 00:19:43,793
+<font color="#ffff00">Do que você tem medo?</font>
+
+294
+00:19:45,729 --> 00:19:48,631
+<font color="#ffff00">Quer saber?
+Não importa.</font>
+
+295
+00:19:49,734 --> 00:19:52,469
+<font color="#ffff00">O importante é
+como você lida com isso.</font>
+
+296
+00:19:53,171 --> 00:19:56,306
+<font color="#ffff00">Mas eu estava dormindo.</font>
+
+297
+00:19:56,308 --> 00:19:58,105
+<font color="#ffff00">Medos são medos.</font>
+
+298
+00:19:58,677 --> 00:20:01,244
+<font color="#ffff00">Mate seus demônios
+quando estiver acordada,</font>
+
+299
+00:20:01,246 --> 00:20:03,613
+<font color="#ffff00">e não assustarão você
+enquanto estiver dormindo.</font>
+
+300
+00:20:03,815 --> 00:20:06,858
+<font color="#ffff00">Sim, mas... como?</font>
+
+301
+00:20:07,059 --> 00:20:08,794
+<font color="#ffff00">Não pode
+demonstrar fraqueza.</font>
+
+302
+00:20:08,795 --> 00:20:13,045
+<font color="#ffff00">Por aqui, fraqueza
+e medo levam a morte.</font>
+
+303
+00:20:18,762 --> 00:20:20,562
+<font color="#ffff00">Deixe-me ver
+a faca que te dei.</font>
+
+304
+00:20:25,035 --> 00:20:29,505
+<font color="#ffff00">Quando tiver medo,
+segure bem forte a faca, e diga:</font>
+
+305
+00:20:29,852 --> 00:20:32,902
+<font color="#ffff00">"Que se dane,
+não estou com medo."</font>
+
+306
+00:20:38,100 --> 00:20:41,850
+<font color="#ffff00">Que se dane,
+não estou com medo.</font>
+
+307
+00:20:48,450 --> 00:20:52,200
+<font color="#ffff00">Que se dane.
+Não estou com medo.</font>
+
+308
+00:20:53,764 --> 00:20:55,664
+<font color="#ffff00">Mate seus demônios, garota.</font>
+
+309
+00:20:56,067 --> 00:20:58,067
+<font color="#ffff00">E então, conseguirá dormir.</font>
+
+310
+00:21:02,339 --> 00:21:03,839
+<font color="#ffff00">Já se passaram horas.</font>
+
+311
+00:21:04,224 --> 00:21:06,444
+<font color="#ffff00">- Jasper...
+- Está em boas mãos.</font>
+
+312
+00:21:06,445 --> 00:21:08,295
+<font color="#ffff00">Octavia cuidará dele.</font>
+
+313
+00:21:08,813 --> 00:21:10,563
+<font color="#ffff00">Já que tocamos no assunto,</font>
+
+314
+00:21:10,614 --> 00:21:14,750
+<font color="#ffff00">por que todo mundo acha
+que é algo ruim</font>
+
+315
+00:21:14,751 --> 00:21:17,451
+<font color="#ffff00">eu não querer
+que o Jasper morra?</font>
+
+316
+00:21:17,452 --> 00:21:21,052
+<font color="#ffff00">Não sou estraga prazeres.
+Posso ser divertida.</font>
+
+317
+00:21:21,525 --> 00:21:24,850
+<font color="#ffff00">Você me acha divertida,
+não acha?</font>
+
+318
+00:21:24,851 --> 00:21:27,701
+<font color="#ffff00">- Claro. Entre outras coisas...
+- Você é divertida.</font>
+
+319
+00:21:30,467 --> 00:21:33,134
+<font color="#ffff00">- Lembra-se quando...
+- Lembra-se quando me traiu</font>
+
+320
+00:21:33,135 --> 00:21:35,135
+<font color="#ffff00">e causou a execução
+do meu pai?</font>
+
+321
+00:21:37,907 --> 00:21:39,407
+<font color="#ffff00">Eu me lembro.</font>
+
+322
+00:21:40,677 --> 00:21:43,350
+<font color="#ffff00">Do que falávamos?
+De diversão?</font>
+
+323
+00:21:43,351 --> 00:21:44,751
+<font color="#ffff00">Isso.</font>
+
+324
+00:21:44,949 --> 00:21:46,599
+<font color="#ffff00">Mas já que comentou,</font>
+
+325
+00:21:46,907 --> 00:21:50,207
+<font color="#ffff00">e eu não, porque não quero
+falar sobre isso...</font>
+
+326
+00:21:51,528 --> 00:21:53,278
+<font color="#ffff00">No que estava pensando?</font>
+
+327
+00:21:56,626 --> 00:21:58,676
+<font color="#ffff00">Cometi um erro, Clarke.</font>
+
+328
+00:22:01,450 --> 00:22:03,800
+<font color="#ffff00">"Cometi um erro, Clarke".</font>
+
+329
+00:22:06,233 --> 00:22:07,883
+<font color="#ffff00">Não é o suficiente.</font>
+
+330
+00:22:11,180 --> 00:22:16,179
+<font color="#ffff00">Aposto que mal pôde esperar
+para correr até seu pai.</font>
+
+331
+00:22:16,180 --> 00:22:18,550
+<font color="#ffff00">Para contar tudo,
+e ele finalmente acreditar</font>
+
+332
+00:22:18,551 --> 00:22:21,956
+<font color="#ffff00">- que você é o filho perfeito.
+- O que quer que eu diga?</font>
+
+333
+00:22:21,957 --> 00:22:24,172
+<font color="#ffff00">Quero uma explicação.</font>
+
+334
+00:22:31,850 --> 00:22:33,500
+<font color="#ffff00">Não posso te dar uma.</font>
+
+335
+00:22:35,331 --> 00:22:37,153
+<font color="#ffff00">Pensei
+que poderia confiar nele.</font>
+
+336
+00:22:41,437 --> 00:22:44,193
+<font color="#ffff00">Pensei que poderia confiar
+no meu melhor amigo.</font>
+
+337
+00:22:44,300 --> 00:22:46,278
+<font color="#ffff00">Acho que estávamos errados.</font>
+
+338
+00:22:46,279 --> 00:22:48,501
+<font color="#ffff00">- Continuo sendo seu amigo.
+- Não, não é.</font>
+
+339
+00:22:48,900 --> 00:22:50,750
+<font color="#ffff00">Se fosse meu amigo,</font>
+
+340
+00:22:50,751 --> 00:22:53,550
+<font color="#ffff00">entraria na névoa
+e nunca mais voltaria.</font>
+
+341
+00:22:56,185 --> 00:23:01,035
+<font color="#ffff00">Está bem, que tal nós...
+irmos com calma?</font>
+
+342
+00:23:02,618 --> 00:23:05,418
+<font color="#ffff00">Não tenho ideia
+de como fazer isso.</font>
+
+343
+00:23:20,242 --> 00:23:22,542
+<font color="#ffff00">Já estamos nos divertindo?</font>
+
+344
+00:23:27,451 --> 00:23:29,550
+<font color="#ffff00">Esse garoto está
+me deixando louca.</font>
+
+345
+00:23:31,379 --> 00:23:33,529
+<font color="#ffff00"><i>Não aguento mais isso.</i></font>
+
+346
+00:23:33,530 --> 00:23:35,508
+<font color="#ffff00"><i>Alguém precisa
+dar um jeito nele.</i></font>
+
+347
+00:23:39,660 --> 00:23:42,000
+<font color="#ffff00">Basta.
+Vou colocar um fim nisso.</font>
+
+348
+00:23:42,695 --> 00:23:44,550
+<font color="#ffff00">Bellamy deu prazo
+até amanhã.</font>
+
+349
+00:23:44,551 --> 00:23:46,800
+<font color="#ffff00">Mas Bellamy
+não está aqui, está?</font>
+
+350
+00:23:46,802 --> 00:23:48,246
+<font color="#ffff00">O garoto está
+morrendo mesmo.</font>
+
+351
+00:23:48,247 --> 00:23:49,797
+<font color="#ffff00">Só estou apressando
+as coisas.</font>
+
+352
+00:23:53,107 --> 00:23:54,807
+<font color="#ffff00">Murphy vai matar o Jasper!</font>
+
+353
+00:23:59,714 --> 00:24:01,381
+<font color="#ffff00">A fechadura está
+do outro lado.</font>
+
+354
+00:24:01,483 --> 00:24:02,883
+<font color="#ffff00">Não o deixe entrar!</font>
+
+355
+00:24:02,984 --> 00:24:05,984
+<font color="#ffff00"><i>Vou matá-lo, está bem?
+Deixe-me entrar, Monty!</i></font>
+
+356
+00:24:08,356 --> 00:24:10,106
+<font color="#ffff00">Sem pressa.
+Está tudo bem aqui.</font>
+
+357
+00:24:10,107 --> 00:24:11,926
+<font color="#ffff00">- <i>Vamos lá!</i>
+- Consegui!</font>
+
+358
+00:24:13,328 --> 00:24:14,828
+<font color="#ffff00">Saia da frente!</font>
+
+359
+00:24:14,829 --> 00:24:17,429
+<font color="#ffff00"><i>Monty,
+é melhor abrir isso agora!</i></font>
+
+360
+00:24:20,966 --> 00:24:23,665
+<font color="#ffff00"><i>Nesse tempo de incerteza,</i></font>
+
+361
+00:24:23,666 --> 00:24:26,856
+<font color="#ffff00"><i>ficaremos juntos,
+como um todo.</i></font>
+
+362
+00:24:26,957 --> 00:24:30,691
+<font color="#ffff00"><i>Estou dizendo isso
+porque precisam saber a verdade,</i></font>
+
+363
+00:24:30,692 --> 00:24:33,613
+<font color="#ffff00"><i>e porque quero um futuro
+para minha filha,</i></font>
+
+364
+00:24:34,123 --> 00:24:35,523
+<font color="#ffff00">e para os de vocês.</font>
+
+365
+00:24:36,796 --> 00:24:38,346
+<font color="#ffff00">Sejam fortes.</font>
+
+366
+00:24:38,971 --> 00:24:40,821
+<font color="#ffff00"><i>Desobedecerá o Conselho?</i></font>
+
+367
+00:24:46,006 --> 00:24:49,106
+<font color="#ffff00">Pai, eu sei. Ouvi você
+e a mamãe conversarem.</font>
+
+368
+00:24:49,200 --> 00:24:50,900
+<font color="#ffff00">Certo, você sabe.</font>
+
+369
+00:24:51,612 --> 00:24:53,762
+<font color="#ffff00">Faz tempo
+que tenho pensando nisso.</font>
+
+370
+00:24:53,763 --> 00:24:55,596
+<font color="#ffff00">As pessoas têm
+o direito de saber.</font>
+
+371
+00:24:55,597 --> 00:24:57,897
+<font color="#ffff00">- Sua mãe não entende.
+- Qual é o plano?</font>
+
+372
+00:24:59,111 --> 00:25:01,967
+<font color="#ffff00">- Você não precisa saber dele.
+- Está gravando um vídeo.</font>
+
+373
+00:25:01,968 --> 00:25:06,718
+<font color="#ffff00">Então vai invadir
+o sistema de comunicações?</font>
+
+374
+00:25:08,735 --> 00:25:11,575
+<font color="#ffff00">Isso te torna um suicida
+ou um incrível idiota.</font>
+
+375
+00:25:11,576 --> 00:25:15,300
+<font color="#ffff00">Escolheu um ótimo momento
+para começar</font>
+
+376
+00:25:15,301 --> 00:25:17,027
+<font color="#ffff00">a agir
+como uma adolescente.</font>
+
+377
+00:25:17,028 --> 00:25:19,498
+<font color="#ffff00">- Irei te ajudar.
+- Não, Clarke, não irá.</font>
+
+378
+00:25:19,499 --> 00:25:21,699
+<font color="#ffff00">- Mas eu posso...
+- Claro que não.</font>
+
+379
+00:25:23,737 --> 00:25:27,308
+<font color="#ffff00">Não. Não, querida.</font>
+
+380
+00:25:30,113 --> 00:25:32,913
+<font color="#ffff00">Puxou a teimosia
+de sua mãe, sabia?</font>
+
+381
+00:25:33,150 --> 00:25:36,500
+<font color="#ffff00">Uma das muitas coisas
+que amo em vocês duas.</font>
+
+382
+00:25:36,667 --> 00:25:38,945
+<font color="#ffff00">Jake Griffin,
+você está preso por traição.</font>
+
+383
+00:25:38,946 --> 00:25:42,600
+<font color="#ffff00">Pai? Não, não...</font>
+
+384
+00:25:42,601 --> 00:25:45,100
+<font color="#ffff00">- Tire suas mãos dela.
+- Solte-me!</font>
+
+385
+00:25:46,418 --> 00:25:48,499
+<font color="#ffff00">Irei avisá-los.
+Darei um jeito.</font>
+
+386
+00:25:48,500 --> 00:25:51,375
+<font color="#ffff00">Não, Clarke, me escute.
+Não faça isso.</font>
+
+387
+00:25:51,376 --> 00:25:54,500
+<font color="#ffff00">Sai de cima de mim!
+Soltem-me!</font>
+
+388
+00:25:54,501 --> 00:25:57,955
+<font color="#ffff00">Soltem-me! Pai! Pai!</font>
+
+389
+00:26:00,803 --> 00:26:03,313
+<font color="#ffff00">A névoa dissipou-se.
+Vamos.</font>
+
+390
+00:26:09,473 --> 00:26:11,673
+<font color="#ffff00">Vamos.
+Jasper está nos esperando.</font>
+
+391
+00:26:23,204 --> 00:26:25,240
+<font color="#ffff00">A noite de ontem
+foi bem intensa.</font>
+
+392
+00:26:26,028 --> 00:26:29,828
+<font color="#ffff00">- Você e Clarke nunca...
+- Não. Não desse modo.</font>
+
+393
+00:26:32,024 --> 00:26:34,324
+<font color="#ffff00">Então me ajude a entender.</font>
+
+394
+00:26:35,394 --> 00:26:38,367
+<font color="#ffff00">Sua melhor amiga te conta
+uma bomba,</font>
+
+395
+00:26:38,368 --> 00:26:40,581
+<font color="#ffff00">e você me parece
+que sabe guardar segredos.</font>
+
+396
+00:26:40,582 --> 00:26:43,383
+<font color="#ffff00">- Você não me conhece.
+- Por que fez isso?</font>
+
+397
+00:26:45,392 --> 00:26:47,270
+<font color="#ffff00">Não sei.
+Por que você se importa?</font>
+
+398
+00:26:48,923 --> 00:26:51,073
+<font color="#ffff00">Você conhecia as regras
+da Arca.</font>
+
+399
+00:26:51,732 --> 00:26:54,282
+<font color="#ffff00">Você sabia
+que o pai dela seria executado.</font>
+
+400
+00:26:55,830 --> 00:26:57,430
+<font color="#ffff00">Fiz uma escolha.</font>
+
+401
+00:26:57,703 --> 00:27:00,470
+<font color="#ffff00">Se ela me odiar eternamente,
+fiz a escolha certa.</font>
+
+402
+00:27:00,471 --> 00:27:01,971
+<font color="#ffff00">Você só precisa
+saber disso.</font>
+
+403
+00:27:09,177 --> 00:27:10,744
+<font color="#ffff00">Tudo limpo.</font>
+
+404
+00:27:13,948 --> 00:27:15,815
+<font color="#ffff00">Tem alguém aqui?</font>
+
+405
+00:27:16,517 --> 00:27:18,956
+<font color="#ffff00">- Jones?
+<i>- Estamos aqui.</i></font>
+
+406
+00:27:23,157 --> 00:27:27,227
+<font color="#ffff00">- Nos perdemos. Onde foram?
+- Achamos uma caverna lá.</font>
+
+407
+00:27:27,229 --> 00:27:30,397
+<font color="#ffff00">- O que diabos era aquilo?
+- Não sei. Onde está o Atom?</font>
+
+408
+00:27:36,037 --> 00:27:39,484
+<font color="#ffff00">Presos em um carro de 100 anos
+por causa de uma névoa tóxica.</font>
+
+409
+00:27:40,855 --> 00:27:42,899
+<font color="#ffff00">Noite passada foi muito...</font>
+
+410
+00:27:43,111 --> 00:27:46,599
+<font color="#ffff00">Qual é a palavra?
+Divertida.</font>
+
+411
+00:27:47,182 --> 00:27:50,584
+<font color="#ffff00">Não foi divertido.
+Foi irresponsável.</font>
+
+412
+00:27:50,585 --> 00:27:52,535
+<font color="#ffff00">Devíamos ter ido
+quando a névoa passou.</font>
+
+413
+00:27:52,536 --> 00:27:55,863
+<font color="#ffff00">Mesmo sem névoa, não daria
+para voltar por aqui de noite.</font>
+
+414
+00:27:57,791 --> 00:28:01,189
+<font color="#ffff00">- Você pegou pesado com o Wells.
+- Dificilmente.</font>
+
+415
+00:28:02,463 --> 00:28:04,347
+<font color="#ffff00">Ele é um cara bem honesto.</font>
+
+416
+00:28:04,815 --> 00:28:08,167
+<font color="#ffff00">E te ama.
+Sabe disso, não é?</font>
+
+417
+00:28:09,570 --> 00:28:12,381
+<font color="#ffff00">Mas sempre que o assunto
+é o seu pai,</font>
+
+418
+00:28:12,773 --> 00:28:14,860
+<font color="#ffff00">ele não dá
+uma resposta direta.</font>
+
+419
+00:28:15,542 --> 00:28:17,310
+<font color="#ffff00">Faz-me pensar
+que ele esconde algo.</font>
+
+420
+00:28:18,512 --> 00:28:20,947
+<font color="#ffff00">Então preciso te perguntar.</font>
+
+421
+00:28:20,949 --> 00:28:24,350
+<font color="#ffff00">O quanto está certa que foi ele
+quem entregou o seu pai?</font>
+
+422
+00:28:24,352 --> 00:28:28,501
+<font color="#ffff00">100% de certeza, certo?
+Eu só contei para ele.</font>
+
+423
+00:28:30,491 --> 00:28:32,591
+<font color="#ffff00">Ele era o único que sabia?</font>
+
+424
+00:28:40,235 --> 00:28:41,902
+<font color="#ffff00">Quem está gritando?</font>
+
+425
+00:28:53,013 --> 00:28:55,848
+<font color="#ffff00">Desgraçado.
+Atom.</font>
+
+426
+00:29:08,561 --> 00:29:12,998
+<font color="#ffff00">Mate-me...
+Mate-me.</font>
+
+427
+00:29:14,701 --> 00:29:16,297
+<font color="#ffff00">Mate-me.</font>
+
+428
+00:29:50,349 --> 00:29:52,502
+<font color="#ffff00">Não tenha medo.</font>
+
+429
+00:29:55,032 --> 00:29:56,873
+<font color="#ffff00">Voltem para o acampamento.</font>
+
+430
+00:29:59,285 --> 00:30:02,007
+<font color="#ffff00">Charlotte, você também.</font>
+
+431
+00:30:09,894 --> 00:30:11,720
+<font color="#ffff00">Mate-me.</font>
+
+432
+00:30:19,943 --> 00:30:24,895
+<font color="#ffff00">Bellamy, por favor.</font>
+
+433
+00:30:38,702 --> 00:30:40,466
+<font color="#ffff00">Por favor.</font>
+
+434
+00:30:40,530 --> 00:30:43,290
+<font color="#ffff00">- Ouvi gritos.
+- Charlotte o encontrou.</font>
+
+435
+00:30:44,000 --> 00:30:46,006
+<font color="#ffff00">A mandei voltar
+para o acampamento.</font>
+
+436
+00:31:03,286 --> 00:31:04,952
+<font color="#ffff00">Tudo bem.</font>
+
+437
+00:31:06,188 --> 00:31:09,431
+<font color="#ffff00">Eu vou ajudá-lo, tudo bem?</font>
+
+438
+00:32:06,295 --> 00:32:08,146
+<font color="#ffff00"><i>Eles voltaram!</i></font>
+
+439
+00:32:08,917 --> 00:32:10,784
+<font color="#ffff00">Precisamos achar o Jasper.</font>
+
+440
+00:32:10,953 --> 00:32:13,321
+<font color="#ffff00">Preciso de água fervente
+para fazer o remédio.</font>
+
+441
+00:32:18,293 --> 00:32:20,552
+<font color="#ffff00">Dê para a Clarke
+o que ela precisar.</font>
+
+442
+00:32:22,030 --> 00:32:24,190
+<font color="#ffff00">É melhor eu cavar
+essa cova.</font>
+
+443
+00:32:24,767 --> 00:32:28,017
+<font color="#ffff00">Já era hora!
+Vão matar o Jasper.</font>
+
+444
+00:32:28,018 --> 00:32:31,676
+<font color="#ffff00">- Conseguiu o remédio?
+- Consegui. Vamos conversar.</font>
+
+445
+00:32:33,208 --> 00:32:37,074
+<font color="#ffff00">Octavia, fique aí.
+Por favor, não se aproxime.</font>
+
+446
+00:32:37,209 --> 00:32:38,612
+<font color="#ffff00">O quê? Pare!</font>
+
+447
+00:32:45,120 --> 00:32:46,620
+<font color="#ffff00">Atom.</font>
+
+448
+00:32:48,490 --> 00:32:50,837
+<font color="#ffff00">- Não pude fazer nada...
+- Não!</font>
+
+449
+00:33:02,604 --> 00:33:04,738
+<font color="#ffff00">- Por favor...
+- Não.</font>
+
+450
+00:33:10,611 --> 00:33:12,399
+<font color="#ffff00">Alguém morreu aqui?</font>
+
+451
+00:33:12,618 --> 00:33:14,018
+<font color="#ffff00">Não.</font>
+
+452
+00:33:14,549 --> 00:33:17,191
+<font color="#ffff00">- E o Jasper?
+- Mal está respirando.</font>
+
+453
+00:33:17,192 --> 00:33:19,949
+<font color="#ffff00">Tentei matá-lo,
+mas sua irmãzinha psicopata...</font>
+
+454
+00:33:20,455 --> 00:33:23,175
+<font color="#ffff00">- Bellamy...
+- A minha o quê?</font>
+
+455
+00:33:23,725 --> 00:33:25,793
+<font color="#ffff00">Sua irmãzinha.</font>
+
+456
+00:33:26,295 --> 00:33:29,889
+<font color="#ffff00">Isso mesmo.
+Minha irmãzinha.</font>
+
+457
+00:33:31,332 --> 00:33:33,759
+<font color="#ffff00">Tem mais alguma coisa
+para dizer sobre ela?</font>
+
+458
+00:33:35,737 --> 00:33:37,270
+<font color="#ffff00">Nada.</font>
+
+459
+00:33:38,072 --> 00:33:39,706
+<font color="#ffff00">Desculpe.</font>
+
+460
+00:33:44,745 --> 00:33:46,368
+<font color="#ffff00">Tirem-no daqui.</font>
+
+461
+00:34:13,830 --> 00:34:15,330
+<font color="#ffff00">Oi, querida.</font>
+
+462
+00:34:21,914 --> 00:34:25,166
+<font color="#ffff00">- Precisamos avisá-los, Abby.
+- Jake, pare.</font>
+
+463
+00:34:25,956 --> 00:34:28,201
+<font color="#ffff00">A Arca está morrendo.
+Não temos escolha.</font>
+
+464
+00:34:28,565 --> 00:34:30,065
+<font color="#ffff00">Sim, temos.</font>
+
+465
+00:34:31,033 --> 00:34:32,560
+<font color="#ffff00">Temos a Terra.</font>
+
+466
+00:34:35,171 --> 00:34:37,284
+<font color="#ffff00">Ao menos teremos
+uma chance.</font>
+
+467
+00:34:45,280 --> 00:34:47,521
+<font color="#ffff00">Aqui. Fique com isso.</font>
+
+468
+00:34:48,617 --> 00:34:52,870
+<font color="#ffff00">E dê isso à Clarke,
+e diga para ela que...</font>
+
+469
+00:34:53,123 --> 00:34:54,601
+<font color="#ffff00"><i>Pai!</i></font>
+
+470
+00:34:54,602 --> 00:34:56,582
+<font color="#ffff00">Clarke, não devia estar aqui,
+querida.</font>
+
+471
+00:34:56,583 --> 00:34:58,417
+<font color="#ffff00">Você não quer ver isso.</font>
+
+472
+00:34:58,695 --> 00:35:00,249
+<font color="#ffff00">Podem liberá-la.</font>
+
+473
+00:35:11,100 --> 00:35:12,575
+<font color="#ffff00">Está tudo bem.</font>
+
+474
+00:35:14,142 --> 00:35:17,378
+<font color="#ffff00">Aqui. Fique com isso
+para mim.</font>
+
+475
+00:35:19,381 --> 00:35:21,382
+<font color="#ffff00">Jake, está na hora.</font>
+
+476
+00:35:29,391 --> 00:35:32,226
+<font color="#ffff00">- Eu te amo, filha.
+- Eu te amo.</font>
+
+477
+00:35:50,145 --> 00:35:52,957
+<font color="#ffff00">Tudo bem.</font>
+
+478
+00:35:54,949 --> 00:35:57,158
+<font color="#ffff00">Meu Deus.</font>
+
+479
+00:35:59,921 --> 00:36:02,628
+<font color="#ffff00">Sinto muito.</font>
+
+480
+00:36:03,155 --> 00:36:06,558
+<font color="#ffff00">Querida, não é sua culpa.</font>
+
+481
+00:36:27,482 --> 00:36:30,258
+<font color="#ffff00">Sinto muito sobre o Atom.</font>
+
+482
+00:36:34,334 --> 00:36:38,006
+<font color="#ffff00">Teremos que nos acostumar
+com pessoas morrendo aqui.</font>
+
+483
+00:36:40,061 --> 00:36:43,004
+<font color="#ffff00">Mas não você.
+Ouviu-me?</font>
+
+484
+00:36:43,039 --> 00:36:44,966
+<font color="#ffff00">Não está autorizado
+a morrer.</font>
+
+485
+00:36:56,400 --> 00:36:57,800
+<font color="#ffff00"><i>Wells?</i></font>
+
+486
+00:37:03,198 --> 00:37:05,632
+<font color="#ffff00">Sei que provavelmente
+não mereço isso,</font>
+
+487
+00:37:06,181 --> 00:37:08,289
+<font color="#ffff00">mas preciso
+saber a verdade.</font>
+
+488
+00:37:10,558 --> 00:37:14,167
+<font color="#ffff00">Foi a minha mãe. Não foi?</font>
+
+489
+00:37:15,796 --> 00:37:17,742
+<font color="#ffff00">Foi ela que contou
+para o seu pai.</font>
+
+490
+00:37:21,335 --> 00:37:23,185
+<font color="#ffff00">Eu não queria
+acreditar nisso. Eu...</font>
+
+491
+00:37:24,171 --> 00:37:25,796
+<font color="#ffff00">Eu não pude.</font>
+
+492
+00:37:26,707 --> 00:37:29,126
+<font color="#ffff00">Eu culpei você
+porque meu pai está morto,</font>
+
+493
+00:37:29,127 --> 00:37:30,836
+<font color="#ffff00">e é culpa da minha mãe.</font>
+
+494
+00:37:32,333 --> 00:37:33,948
+<font color="#ffff00">Não é?</font>
+
+495
+00:37:36,016 --> 00:37:39,867
+<font color="#ffff00">Wells... Por favor.</font>
+
+496
+00:37:45,125 --> 00:37:47,012
+<font color="#ffff00">Eu sabia
+como você se sentiria.</font>
+
+497
+00:37:50,063 --> 00:37:52,076
+<font color="#ffff00">- Eu queria...
+- Proteger-me.</font>
+
+498
+00:38:00,140 --> 00:38:02,065
+<font color="#ffff00">Então você deixou
+eu te odiar.</font>
+
+499
+00:38:03,600 --> 00:38:05,274
+<font color="#ffff00">Para que servem os amigos?</font>
+
+500
+00:38:06,713 --> 00:38:08,679
+<font color="#ffff00">Como pode me perdoar?</font>
+
+501
+00:38:11,385 --> 00:38:13,192
+<font color="#ffff00">Eu já perdoei.</font>
+
+502
+00:38:30,003 --> 00:38:31,936
+<font color="#ffff00">Ótimo.</font>
+
+503
+00:38:42,843 --> 00:38:45,396
+<font color="#ffff00">Nojento. Adorei.</font>
+
+504
+00:38:47,602 --> 00:38:51,895
+<font color="#ffff00">- Posso tomar um gole?
+- Jasper!</font>
+
+505
+00:38:52,159 --> 00:38:55,160
+<font color="#ffff00">Vamos começar
+com as coisas mais leves.</font>
+
+506
+00:39:01,334 --> 00:39:03,001
+<font color="#ffff00">Bem-vindo de volta, amigo.</font>
+
+507
+00:39:08,374 --> 00:39:11,376
+<font color="#ffff00">Foi um sonho,
+ou uma lança me atravessou?</font>
+
+508
+00:39:12,545 --> 00:39:15,180
+<font color="#ffff00">Terá uma cicatriz impressionante
+para provar isso.</font>
+
+509
+00:39:15,182 --> 00:39:16,882
+<font color="#ffff00">Minha salvadora.</font>
+
+510
+00:39:17,650 --> 00:39:20,509
+<font color="#ffff00">Obrigada por não morrer.</font>
+
+511
+00:39:21,488 --> 00:39:23,755
+<font color="#ffff00">Não acho
+que aguentaria isso hoje.</font>
+
+512
+00:39:23,756 --> 00:39:27,626
+<font color="#ffff00">E tentarei não morrer amanhã,
+se não tiver problema.</font>
+
+513
+00:39:31,264 --> 00:39:32,664
+<font color="#ffff00">Olá.</font>
+
+514
+00:39:53,652 --> 00:39:55,080
+<font color="#ffff00">Oi.</font>
+
+515
+00:39:55,555 --> 00:39:57,055
+<font color="#ffff00">Não consegue dormir?</font>
+
+516
+00:39:57,857 --> 00:39:59,472
+<font color="#ffff00">Nunca consigo.</font>
+
+517
+00:40:00,659 --> 00:40:02,224
+<font color="#ffff00">Está de vigia?</font>
+
+518
+00:40:02,596 --> 00:40:04,062
+<font color="#ffff00">Junte-se a mim.</font>
+
+519
+00:40:10,803 --> 00:40:12,303
+<font color="#ffff00">Tive um pesadelo.</font>
+
+520
+00:40:14,774 --> 00:40:17,932
+<font color="#ffff00">Tenho-os todas as noites.</font>
+
+521
+00:40:20,346 --> 00:40:21,746
+<font color="#ffff00">Mas...</font>
+
+522
+00:40:23,999 --> 00:40:26,384
+<font color="#ffff00">achei um jeito
+de fazê-los parar.</font>
+
+523
+00:40:29,054 --> 00:40:30,600
+<font color="#ffff00">Sinto muito.</font>
+
+524
+00:40:32,057 --> 00:40:33,557
+<font color="#ffff00">Não.</font>
+
+525
+00:40:51,777 --> 00:40:54,592
+<font color="#ffff00">- <i>Socorro.</i>
+- Todas as noites, eu o vejo.</font>
+
+526
+00:40:55,747 --> 00:40:57,347
+<font color="#ffff00">Seu pai.</font>
+
+527
+00:40:58,483 --> 00:41:02,353
+<font color="#ffff00">Ele mata os meus pais,
+e eu vejo o rosto dele,</font>
+
+528
+00:41:02,355 --> 00:41:05,738
+<font color="#ffff00">então eu acordo,
+e vejo o seu.</font>
+
+529
+00:41:07,759 --> 00:41:09,894
+<font color="#ffff00">E o pesadelo nunca acaba.</font>
+
+530
+00:41:10,630 --> 00:41:12,953
+<font color="#ffff00">A única forma
+de fazer isso acabar,</font>
+
+531
+00:41:13,466 --> 00:41:15,484
+<font color="#ffff00">era matar os meus demônios.</font>
+
+532
+00:41:17,302 --> 00:41:19,102
+<font color="#ffff00">Eu precisava fazer isso.</font>
+
+533
+00:41:36,415 --> 00:41:41,414
+<font color="#ffff00"><b>UNITED e ManiacS!
+Quality is everything!</b></font>
+
