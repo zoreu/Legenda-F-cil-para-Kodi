@@ -7,7 +7,7 @@ Download do Addon: [service.subtitles.legendafacil.zip](https://github.com/zoreu
 Reproduza algum video e clique em subtitle, download subtitle (baixar legenda), e  selecione Legenda Fácil.
 Espere a encontrar a legenda ou faça a pesquisa manualmente.
 
-**Colaboradores**
+**Colaboradores:**
 Caso queira adicionar legendas no repositório entre em contato pelo grupo do OnePlay no telegram
 [https://t.me/oneplaypro](https://t.me/oneplaypro)
 
