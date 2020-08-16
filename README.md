@@ -3,7 +3,7 @@
 
 Download do Addon: [service.subtitles.legendafacil.zip](https://github.com/zoreu/legenda-facil-para-kodi/raw/master/service.subtitles.legendafacil.zip)
 
-**Tutorial**
+**Tutorial:**
 Reproduza algum video e clique em subtitle, download subtitle (baixar legenda), e  selecione Legenda Fácil.
 Espere a encontrar a legenda ou faça a pesquisa manualmente.
 
