@@ -1,4 +1,4 @@
-subtitle="https://raw.githubusercontent.com/zoreu/legenda-facil-para-kodi/master/legendas/filmes/parasita2019/Parasite%20(2019)%20(2160p%20BluRay%20x265%2010bit%20HDR%20Bandi).srt"
+subtitle="https://raw.githubusercontent.com/zoreu/legenda-facil-para-kodi/master/legendas/filmes/parasita2019/Parasite%20(2019)%20(2160p%20BluRay%20x265%2010bit%20HDR%20Bandi).zh-CN.srt"
 language="Portuguese (Brasil)"
 flag="pb"
 rating="5"
